@@ -5,8 +5,6 @@ body {
   background-color: #fff;
 }
 
-/*  Text  */
-
 h1 {
   font-size: 3rem;
   color: #312614;
@@ -24,8 +22,6 @@ h2 {
 p {
   margin-top: 0;
 }
-
-/*  Layout  */
 
 .container {
   width: 95%;
